@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa GÜLTEKİN</h1>
+<h1 align="center">Hey there 👋, I'm Mustafa </h1>
 <h3 align="center">IT, Management Information Systems</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/CgGUXc-LDc4AAAAC/hacker-pc.gif">
 
