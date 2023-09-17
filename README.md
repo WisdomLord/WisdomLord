@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/145264848/268528889-ee3993ca-9c64-4450-9d5b-c7598778e988.gif" style="max-width: 100%;">
 <h1 align="center">Hey there 👋, I'm Mustafa </h1>
 <h3 align="center">IT, Management Information Systems</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/CgGUXc-LDc4AAAAC/hacker-pc.gif">
 
 - 🌱 I’m currently learning **Data Scine, Project Management**
 
