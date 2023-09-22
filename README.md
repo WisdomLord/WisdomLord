@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/145264848/268528889-ee3993ca-9c64-4450-9d5b-c7598778e988.gif" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/145264848/269881568-b694653f-cc6b-46ef-97c9-f10d8decfd69.gif" style="max-width: 100%;">
 <h1 align="center">Hey there 👋, I'm Mustafa </h1>
 <h3 align="center">IT, Management Information Systems</h3>
 
